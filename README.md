@@ -1,5 +1,5 @@
 # Telegram Bot for Github File Upload
-This is a simple Telegram bot that can upload files from Telegram to a Github repository. It uses Pyrogram, Requests and PyGithub libraries.
+This is a simple Telegram bot that can upload files f rom Telegram to a Github repository. It uses Pyrogram, Requests and PyGithub libraries.
 
 ## Features
 The bot can only be used by the owner of the bot, who is specified by the OWNER_ID environment variable.
